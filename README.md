@@ -4,7 +4,7 @@ Discord Bot that can be used on macos
 Nodemon is needed: https://www.npmjs.com/package/nodemon?activeTab=readme
 
 
-1. Type in terminal: ""
+1. Type in terminal: "git clone https://github.com/fd-q/DiscordBot-Macos.git"
 2. Install Nodemon
 3. Create a new application. http://discord.com/developers/applications/
 4. Go to bot settings
